@@ -4,8 +4,8 @@
 # 🏦 Auto Loan Securitisation — Data Analytics Project
 
 > **End-to-end data engineering and analytics pipeline for an Auto Loan Asset-Backed Securities (ABS) portfolio — covering schema design, ETL, data quality, KPI validation, and Power BI reporting.**
+![image alt](https://github.com/kishan45yadav/auto-loan-securitisation-analytics/blob/main/Screenshot%20(374).png?raw=true)
 
----
 
 ## 📁 Project Structure
 
