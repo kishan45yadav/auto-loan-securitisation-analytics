@@ -1,6 +1,6 @@
 # auto-loan-securitisation-analytics
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=flat&logo=powerbi&logoColor=black)
-
+![MySQL](https://img.shields.io/badge/MySQL-Workbench-4479A1?style=flat&logo=mysql&logoColor=white)
 # 🏦 Auto Loan Securitisation — Data Analytics Project
 
 > **End-to-end data engineering and analytics pipeline for an Auto Loan Asset-Backed Securities (ABS) portfolio — covering schema design, ETL, data quality, KPI validation, and Power BI reporting.**
