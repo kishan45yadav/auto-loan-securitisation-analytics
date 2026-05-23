@@ -7,6 +7,8 @@
 ![image alt](https://github.com/kishan45yadav/auto-loan-securitisation-analytics/blob/main/Screenshot%20(374).png?raw=true)
 ![image alt](https://github.com/kishan45yadav/auto-loan-securitisation-analytics/blob/main/Screenshot%20(375).png?raw=true)
 ![image alt](https://github.com/kishan45yadav/auto-loan-securitisation-analytics/blob/main/Screenshot%20(376).png?raw=true)
+![image alt](https://github.com/kishan45yadav/auto-loan-securitisation-analytics/blob/main/Screenshot%20(377).png?raw=true)
+
 ## 📁 Project Structure
 
 ```
